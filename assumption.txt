@@ -1,4 +1,4 @@
 i am assuming that your machine have all the dependencies installed with redis-server as well
 if they are not install please install them.
 
-having library redis-server is must without it, it won't work as specified.
+having a running redis-server is must , it won't work as expected without it.
